@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobohshui.zldl.co.uk/sitemap.xml
